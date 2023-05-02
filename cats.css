@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+.cat {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+ 
+    background-color: #ccd5ae;
+}
